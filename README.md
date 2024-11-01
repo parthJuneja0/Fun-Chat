@@ -2,6 +2,8 @@
 
 Fun-Chat is a basic, real-time group chatting application built as a learning project to understand and work with Web Sockets using the socket.io library. This application focuses solely on group conversations, making it a lightweight and straightforward example of real-time communication without the complexity of one-on-one messaging.
 
+**Try it Live**: [Fun-Chat on Render](https://fun-chat-vasv.onrender.com/)
+
 ## Learning Experience
 
 Fun-Chat served as a foundational project in my journey to grasp real-time communication technology, specifically through Web Sockets and the socket.io library. Building this application provided hands-on experience with socket.io for establishing real-time group chats and gave me a deeper understanding of server-client interactions within a Node and Express environment.
